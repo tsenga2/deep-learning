@@ -29,8 +29,4 @@ TBA
 
 ## License
 
-*(Include any licensing information here, especially regarding the use of materials from the book.)*
-
----
-
-**Note:** This repository is private. Please respect the copyright of the original materials and do not distribute them without permission.
+TBA
