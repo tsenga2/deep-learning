@@ -1,6 +1,6 @@
-# はじめてのディープラーニング (Beginning Deep Learning)
+# Deep Learning Study Materials
 
-This repository contains Python code examples and supplementary materials for the book "はじめてのディープラーニング" (Beginning Deep Learning).
+This repository contains code examples and supplementary materials for studying deep learning.
 
 ## Repository Structure
 
@@ -19,24 +19,13 @@ This directory includes various Python scripts and notebooks that demonstrate de
 - Model training examples
 - Visualization tools
 
-*(Note: You may want to add more specific details about the files in the softbank directory here.)*
-
 ## Usage
 
-To use the code in this repository:
-
-1. Clone the repository to your local machine.
-2. Navigate to the `softbank` directory.
-3. Run the Python scripts or open the notebooks as needed.
+TBA
 
 ## Requirements
 
-*(You may want to list any specific Python libraries or version requirements here.)*
-
-## Additional Resources
-
-For more information and to purchase the book, please visit the publisher's website:
-[SB Creative Corp. - はじめてのディープラーニング](https://www.sbcr.jp/product/4815604417/)
+TBA
 
 ## License
 
